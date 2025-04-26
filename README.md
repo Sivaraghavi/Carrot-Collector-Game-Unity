@@ -24,8 +24,6 @@ Made with Unity 2022.3.55f1.
 
 > The project is optimized and compatible for building on Android, iOS, and WebGL platforms.
 
-## 📸 End Game Screenshot
-
 ![End Game Screenshot](Result/End%20of%20Game.png)
 
 ---
